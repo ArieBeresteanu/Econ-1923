@@ -8,7 +8,7 @@
         "height_inches" : 77,
         "author" : false,
         "tv show" : null
-    }
+    },
     "jenna" : {
         "full name" : "Jenna Fischer",
         "other names" : "Pam",
@@ -18,9 +18,8 @@
         "height_inches" : 66,
         "author" : false,
         "tv show" : "The Office"
-    }
-}    
-{ 
+    },
+
 "lebron" : { 
     "full name" : "Lebron James", 
     "other names" : ["Bron", "King James"],
