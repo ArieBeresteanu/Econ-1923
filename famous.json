@@ -20,3 +20,17 @@
         "tv show" : "The Office"
     }
 }    
+{ 
+"lebron" : { 
+    "full name" : "Lebron James", 
+    "other names" : ["Bron", "King James"],
+    "wikipedia" : "https://en.wikipedia.org/wiki/LeBron_James",
+    "born" : 1984, 
+    "place of birth" : "Akron, Ohio", 
+    "height_inches" : 81, 
+    "author" : false, 
+    "basketball team" : "Los Angeles Lakers" 
+    }
+}
+
+
