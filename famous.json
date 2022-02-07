@@ -1,3 +1,19 @@
+
+
+{
+	"professional soccer player": {
+
+		"full name": "Christiano Ronaldo",
+		"brand name": "CR7",
+		"age": 37,
+		"birth place": "Madeira, Portugal",
+		"current club": "Manchester United F.C.",
+		"other clubs played": ["Sporting CB", "Real Madrid", "Juventus"],
+		"The best palyer in the world": true,
+		"other sports": null
+	}
+}
+  
 { 
     "dwayne" : {
         "full name" : "Dwayne Johnson",
@@ -8,7 +24,7 @@
         "height_inches" : 77,
         "author" : false,
         "tv show" : null
-    }
+     }
     "jenna" : {
         "full name" : "Jenna Fischer",
         "other names" : "Pam",
