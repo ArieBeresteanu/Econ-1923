@@ -1,5 +1,9 @@
 [
     {
+        "url" : "https://www.wholefoodsmarket.com/products/pantry-essentials/cereal"
+    },
+
+    {
         "label" : "Purely Elizabeth, Original Ancient Grain Granola, 12oz",
         "Calories" : 130,
         "FAT" : 6.0,
@@ -102,6 +106,48 @@
         "Calcium" : 30.0,
         "servingSize_cup" : 0.5,
         "servingSize_Gram" : 55.0
+    },
+
+    {
+        "label" : "Nature's Path Organic, Heritage Flakes Cereal, Family Size, 32 oz",
+        "Calories" : 160,
+        "FAT" : 1.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 170,
+        "Carb" : 31.0,
+        "Fiber" : 7.0,
+        "Sugar" : 5.0,
+        "SUGAR.added" : 5.0,
+        "Protein" : 5.0,
+        "VITD" : 0.0,
+        "P" : 197.0,
+        "Iron" : 2.0,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 40.0
+    },
+
+    {
+        "label" : "Cheerios Honey Nut , 15.4 oz",
+        "Calories" : 180,
+        "FAT" : 2.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 210,
+        "Carb" : 30.0,
+        "Fiber" : 3.0,
+        "Sugar" : 12.0,
+        "SUGAR.added" : 12.0,
+        "Protein" : 3.0,
+        "VITD" : 2.0,
+        "P" : 150.0,
+        "Iron" : 3.6,
+        "Calcium" : 130.0,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 37.0
     },
 
     {
