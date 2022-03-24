@@ -5,7 +5,7 @@
 
     {
         "label" : "Purely Elizabeth, Original Ancient Grain Granola, 12oz",
-        "Calories" : 130,
+        "ENERC_KCAL" : 130,
         "FAT" : 6.0,
         "FASAT" : 3.5,
         "FATRN" : 0.0,
@@ -13,7 +13,7 @@
         "NA" : 135,
         "Carb" : 19.0,
         "Fiber" : 2.0,
-        "Sugar" : 7.0,
+        "SUGAR" : 7.0,
         "SUGAR.added" : 7.0,
         "Protein" : 3.0,
         "VITD" : 0.0,
@@ -26,7 +26,7 @@
 
     {
         "label" : "Catalina Crunch, Cinnamon Toast Cereal, 9 oz",
-        "Calories" : 110,
+        "ENERC_KCAL" : 110,
         "FAT" : 5.0,
         "FASAT" : 0.5,
         "FATRN" : 0.0,
@@ -34,7 +34,7 @@
         "NA" : 110,
         "Carb" : 14.0,
         "Fiber" : 9.0,
-        "Sugar" : 0.0,
+        "SUGAR" : 0.0,
         "SUGAR.added" : 0.0,
         "Protein" : 11.0,
         "VITD" : 0.0,
@@ -46,7 +46,7 @@
 
     {
         "label" : "Catalina Crunch, Dark Chocolate Cereal, 9 oz",
-        "Calories" : 110,
+        "ENERC_KCAL" : 110,
         "FAT" : 6.0,
         "FASAT" : 1.0,
         "FATRN" : 0.0,
@@ -54,7 +54,7 @@
         "NA" : 125,
         "Carb" : 14.0,
         "Fiber" : 9.0,
-        "Sugar" : 0.0,
+        "SUGAR" : 0.0,
         "SUGAR.added" : 0.0,
         "Protein" : 11.0,
         "VITD" : 0.0,
@@ -66,7 +66,7 @@
 
     {
         "label" : "Michele's Granola,  Original Granola, 12 oz",
-        "Calories" : 150,
+        "ENERC_KCAL" : 150,
         "FAT" : 9.0,
         "FASAT" : 2.0,
         "FATRN" : 0.0,
@@ -74,7 +74,7 @@
         "NA" : 0,
         "Carb" : 15.0,
         "Fiber" : 2.0,
-        "Sugar" : 6.0,
+        "SUGAR" : 6.0,
         "SUGAR.added" : 5.0,
         "Protein" : 3.0,
         "VITD" : 0.0,
@@ -87,7 +87,7 @@
 
     {
         "label" : "365 by Whole Foods Market, Organic Cereal, Oat & Honey Granola, 17 oz",
-        "Calories" : 240,
+        "ENERC_KCAL" : 240,
         "FAT" : 7.0,
         "FASAT" : 0.5,
         "FATRN" : 0.0,
@@ -97,7 +97,7 @@
         "NA" : 50,
         "Carb" : 40.0,
         "Fiber" : 3.0,
-        "Sugar" : 15.0,
+        "SUGAR" : 15.0,
         "SUGAR.added" : 15.0,
         "Protein" : 5.0,
         "VITD" : 0.0,
@@ -110,7 +110,7 @@
 
     {
         "label" : "Nature's Path Organic, Heritage Flakes Cereal, Family Size, 32 oz",
-        "Calories" : 160,
+        "ENERC_KCAL" : 160,
         "FAT" : 1.5,
         "FASAT" : 0.0,
         "FATRN" : 0.0,
@@ -118,7 +118,7 @@
         "NA" : 170,
         "Carb" : 31.0,
         "Fiber" : 7.0,
-        "Sugar" : 5.0,
+        "SUGAR" : 5.0,
         "SUGAR.added" : 5.0,
         "Protein" : 5.0,
         "VITD" : 0.0,
@@ -131,7 +131,7 @@
 
     {
         "label" : "Cheerios Honey Nut , 15.4 oz",
-        "Calories" : 180,
+        "ENERC_KCAL" : 180,
         "FAT" : 2.0,
         "FASAT" : 0.0,
         "FATRN" : 0.0,
@@ -139,7 +139,7 @@
         "NA" : 210,
         "Carb" : 30.0,
         "Fiber" : 3.0,
-        "Sugar" : 12.0,
+        "SUGAR" : 12.0,
         "SUGAR.added" : 12.0,
         "Protein" : 3.0,
         "VITD" : 2.0,
@@ -152,7 +152,7 @@
 
     {
         "label" : "Nature's Path Organic, Heritage Flakes Cereal, Family Size, 32 oz",
-        "Calories" : 160,
+        "ENERC_KCAL" : 160,
         "FAT" : 1.5,
         "FASAT" : 0.0,
         "FATRN" : 0.0,
@@ -160,7 +160,7 @@
         "NA" : 170,
         "Carb" : 31.0,
         "Fiber" : 7.0,
-        "Sugar" : 5.0,
+        "SUGAR" : 5.0,
         "SUGAR.added" : 5.0,
         "Protein" : 5.0,
         "VITD" : 0.0,
@@ -173,7 +173,7 @@
 
     {
         "label" : "Cascadian Farm, Organic Cinnamon Crunch Cereal, 9.2 oz",
-        "Calories" : 180,
+        "ENERC_KCAL" : 180,
         "FAT" : 3.0,
         "FASAT" : 0.0,
         "FATRN" : 0.0,
@@ -181,7 +181,7 @@
         "NA" : 140,
         "Carb" : 29.0,
         "Fiber" : 3.0,
-        "Sugar" : 11.0,
+        "SUGAR" : 11.0,
         "SUGAR.added" : 11.0,
         "Protein" : 2.0,
         "VITD" : 0.0,
@@ -194,7 +194,7 @@
 
     {
         "label" : "365 by Whole Foods Market, Granola Maple Almond Butter, 12 oz",
-        "Calories" : 260,
+        "ENERC_KCAL" : 260,
         "FAT" : 9.0,
         "FASAT" : 1.0,
         "FATRN" : 0.0,
@@ -202,7 +202,7 @@
         "NA" : 115,
         "Carb" : 38.0,
         "Fiber" : 4.0,
-        "Sugar" : 11.0,
+        "SUGAR" : 11.0,
         "SUGAR.added" : 10.0,
         "Protein" : 7.0,
         "VITD" : 0.0,
@@ -215,7 +215,7 @@
 
     {
         "label" : "365 by Whole Foods Market, Raisin Bran Cereal, 15 oz",
-        "Calories" : 170,
+        "ENERC_KCAL" : 170,
         "FAT" : 1.0,
         "FASAT" : 0.0,
         "FATRN" : 0.0,
@@ -223,7 +223,7 @@
         "NA" : 240,
         "Carb" : 43.0,
         "Fiber" : 8.0,
-        "Sugar" : 15.0,
+        "SUGAR" : 15.0,
         "SUGAR.added" : 8.0,
         "Protein" : 5.0,
         "VITD" : 0.0,
@@ -240,7 +240,7 @@
 
     {
         "label" : "Purely Elizabeth. Blueberry Hemp Ancient Grain Granola, 12 oz",
-        "Calories" : 130,
+        "ENERC_KCAL" : 130,
         "FAT" : 5.0,
         "FASAT" : null,
         "FATRN" : null,
@@ -248,7 +248,7 @@
         "NA" : 110,
         "Carb" : 19.0,
         "Fiber" : null,
-        "Sugar" : null,
+        "SUGAR" : null,
         "SUGAR.added" : null,
         "Protein" : 3.0,
         "VITD" : 0.0,
@@ -261,7 +261,7 @@
 
     {
         "label" : "KIND Snacks, Peanut Butter Whole Grain Clusters, 11 oz",
-        "Calories" : 120,
+        "ENERC_KCAL" : 120,
         "FAT" : 4.0,
         "FASAT" : 0.5,
         "FATRN" : 0.0,
@@ -269,7 +269,7 @@
         "NA" : 55,
         "Carb" : 17.0,
         "Fiber" : 2.0,
-        "Sugar" : 5.0,
+        "SUGAR" : 5.0,
         "SUGAR.added" : 5.0,
         "Protein" : 5.0,
         "VITD" : 0.0,
@@ -282,7 +282,7 @@
 
     {
         "label" : "KIND Snacks, Kind Healthy Grains Oats & Honey Clusters With Coconut, 11 oz",
-        "Calories" : 110,
+        "ENERC_KCAL" : 110,
         "FAT" : 2.5,
         "FASAT" : 5.0,
         "FATRN" : 0.0,
@@ -290,7 +290,7 @@
         "NA" : 25,
         "Carb" : 21.0,
         "Fiber" : 2.0,
-        "Sugar" : 5.0,
+        "SUGAR" : 5.0,
         "SUGAR.added" : 5.0,
         "Protein" : 2.0,
         "VITD" : 0.0,
