@@ -299,5 +299,47 @@
         "Calcium" : 10.0,
         "servingSize_cup" : 0.667,
         "servingSize_Gram" : 65
+    },
+    
+    {
+        "label" : "Main Street, Chunky Granola With Flaxseed",
+        "ENERC_KCAL" : 250,
+        "FAT" : 11.0,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 170,
+        "Carb"  : 34.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 18.0,
+        "SUGAR.added" : 16.0,
+        "Protein" : 4.0,
+        "VITD" : 0.0,
+        "P" : 180.0,
+        "Iron" : 1.1,
+        "Calcium" : 40.0,
+        "servingSize_Gram" : 56.7
+    },
+    
+    {
+        "label" : "Bob's Red Mill, Old Country Style Muesli, 40 oz",
+        "ENERC_KCAL" : 140,
+        "FAT" : 3.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 0,
+        "Carb"  : 23.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 8.0,
+        "SUGAR.added" : 0.0,
+        "Protein" : 4.0,
+        "VITD" : 0.0,
+        "P" : 195.0,
+        "Iron" : 1.0,
+        "Calcium" : 14.0,
+        "servingSize_cup" : 0.25,
+        "servingSize_Gram" : 35
     }
+    
 ]
