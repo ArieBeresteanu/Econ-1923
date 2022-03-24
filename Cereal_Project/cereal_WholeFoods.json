@@ -340,6 +340,48 @@
         "Calcium" : 14.0,
         "servingSize_cup" : 0.25,
         "servingSize_Gram" : 35
+    },
+    
+     {
+        "label" : "365 by Whole Foods Market, Organic Morning O's Cereal, 14 oz",
+        "ENERC_KCAL" : 150,
+        "FAT" : 2.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 150,
+        "Carb"  : 30.0,
+        "Fiber" : null,
+        "SUGAR" : null,
+        "SUGAR.added" : null,
+        "Protein" : 5.0,
+        "VITD" : 0.0,
+        "P" : 130.0,
+        "Iron" : 1.5,
+        "Calcium" : 80.0,
+        "servingSize_cup" : 0.667,
+        "servingSize_Gram" : 39
+    },
+    
+    {
+        "label" : "Nature's Path Organic, Organic Heritage Flakes, 13.25 oz",
+        "ENERC_KCAL" : 200,
+        "FAT" : 1.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 220,
+        "Carb"  : 37.0,
+        "Fiber" : 7.0,
+        "SUGAR" : 11.0,
+        "SUGAR.added" : 5.0,
+        "Protein" : 9.0,
+        "VITD" : 2.0,
+        "P" : 388.0,
+        "Iron" : 2.0,
+        "Calcium" : 149.0,
+        "servingSize_cup" : 1.00,
+        "servingSize_Gram" : 40
     }
     
 ]
