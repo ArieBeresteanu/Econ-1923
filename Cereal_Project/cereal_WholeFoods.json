@@ -424,6 +424,27 @@
         "Calcium" : 0.0,
         "servingSize_cup" : null,
         "servingSize_Gram" : 60
+    },
+
+    {
+        "label" : "Kashi. Go Lean Peanut Butter Crunch, 13.2 oz",
+        "ENERC_KCAL" : 220,
+        "FAT" : 9.0,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 130,
+        "Carb"  : 31.0,
+        "Fiber" : 6.0,
+        "SUGAR" : 10.0,
+        "SUGAR.added" : 8.0,
+        "Protein" : 10.0,
+        "VITD" : 0.0,
+        "P" : 370.0,
+        "Iron" : 1.6,
+        "Calcium" : 40.0,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 53
     }
     
 ]
