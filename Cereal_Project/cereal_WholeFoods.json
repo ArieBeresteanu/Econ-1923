@@ -1,6 +1,8 @@
 [
     {
-        "url" : "https://www.wholefoodsmarket.com/products/pantry-essentials/cereal"
+        "url" : "https://www.wholefoodsmarket.com/products/pantry-essentials/cereal",
+        "period" : "March, 2022",
+        "contributor" : "Arie Beresteanu"
     },
 
     {
@@ -634,6 +636,69 @@
         "Calcium" : 13.0,
         "servingSize_cup" : null,
         "servingSize_Gram" : 30.0
+    },
+
+    {
+        "label" : "Nature's Path Organic, Flax Plus Raisin Bran Cereal, 14 oz",
+        "ENERC_KCAL" : 210,
+        "FAT" : 2.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 210,
+        "Carb"  : 45.0,
+        "Fiber" : 9.0,
+        "SUGAR" : 13.0,
+        "SUGAR.added" : 6.0,
+        "Protein" : 6.0,
+        "VITD" : 0.0,
+        "P" : 320.0,
+        "Iron" : 3.0,
+        "Calcium" : 32.0,
+        "servingSize_cup" : 1.25,
+        "servingSize_Gram" : 60.0
+    },
+
+    {
+        "label" : "365 by Whole Foods Market. Organic Cereal, Gluten Free Hazelnut Cocoa Pillow, 10.3 oz",
+        "ENERC_KCAL" : 140,
+        "FAT" : 3.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 35,
+        "Carb"  : 27.0,
+        "Fiber" : 1.0,
+        "SUGAR" : 9.0,
+        "SUGAR.added" : 9.0,
+        "Protein" : 2.0,
+        "VITD" : 0.0,
+        "P" : 0.0,
+        "Iron" : 0.4,
+        "Calcium" : 0.0,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 34.0
+    },
+
+    {
+        "label" : "Post. The Original Grape Nuts, 20.5 oz",
+        "ENERC_KCAL" : 200,
+        "FAT" : 1.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 280,
+        "Carb"  : 47.0,
+        "Fiber" : 7.0,
+        "SUGAR" : 5.0,
+        "SUGAR.added" : 0.0,
+        "Protein" : 6.0,
+        "VITD" : 0.0,
+        "P" : 260.0,
+        "Iron" : 16.0,
+        "Calcium" : 20.0,
+        "servingSize_cup" : 0.5,
+        "servingSize_Gram" : 58.0
     }
     
 ]
