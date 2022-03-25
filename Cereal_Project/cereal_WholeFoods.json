@@ -699,6 +699,69 @@
         "Calcium" : 20.0,
         "servingSize_cup" : 0.5,
         "servingSize_Gram" : 58.0
+    },
+
+    {
+        "label" : "Cascadian Farm, Organic Honey Almond, 14.4 oz",
+        "ENERC_KCAL" : 210,
+        "FAT" : 2.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 190,
+        "Carb"  : 44.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 9.0,
+        "SUGAR.added" : 9.0,
+        "Protein" : 4.0,
+        "VITD" : 0.0,
+        "P" : 130.0,
+        "Iron" : 1.1,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 54.0
+    },
+
+    {
+        "label" : "Paleonola, Grain Free Original Granola, 10 oz",
+        "ENERC_KCAL" : 170,
+        "FAT" : 15.0,
+        "FASAT" : 3.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 10,
+        "Carb"  : 7.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 4.0,
+        "SUGAR.added" : 4.0,
+        "Protein" : 4.0,
+        "VITD" : 0.0,
+        "P" : 0.0,
+        "Iron" : 1.0,
+        "Calcium" : 30.0,
+        "servingSize_cup" : 0.25,
+        "servingSize_Gram" : 28.0
+    },
+
+    {
+        "label" : "Bob's Red Mill, Gluten Free Muesli, 16 oz",
+        "ENERC_KCAL" : 120,
+        "FAT" : 3.5,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 0,
+        "Carb"  : 19.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 4.0,
+        "SUGAR.added" : 1.0,
+        "Protein" : 3.0,
+        "VITD" : 0.0,
+        "P" : 143.0,
+        "Iron" : 1.0,
+        "Calcium" : 15.0,
+        "servingSize_cup" : 0.25,
+        "servingSize_Gram" : 29.0
     }
     
 ]
