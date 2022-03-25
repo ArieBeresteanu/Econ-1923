@@ -382,6 +382,48 @@
         "Calcium" : 149.0,
         "servingSize_cup" : 1.00,
         "servingSize_Gram" : 40
+    },
+
+    {
+        "label" : "365 by Whole Foods Market, Organic Cereal Honey Flakes & Oat Clusters, 12 oz",
+        "ENERC_KCAL" : 150,
+        "FAT" : 1.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 240,
+        "Carb"  : 33.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 7.0,
+        "SUGAR.added" : 7.0,
+        "Protein" : 3.0,
+        "VITD" : 0.0,
+        "P" : 0.0,
+        "Iron" : 0.0,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 1.00,
+        "servingSize_Gram" : 40
+    },
+
+    {
+        "label" : "365 by Whole Foods Market, Organic Cereal, French Vanilla Granola, 17 oz",
+        "ENERC_KCAL" : 270,
+        "FAT" : 8.0,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 65,
+        "Carb"  : 44.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 15.0,
+        "SUGAR.added" : 14.0,
+        "Protein" : 5.0,
+        "VITD" : 0.0,
+        "P" : 130.0,
+        "Iron" : 1.5,
+        "Calcium" : 0.0,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 60
     }
     
 ]
