@@ -762,6 +762,69 @@
         "Calcium" : 15.0,
         "servingSize_cup" : 0.25,
         "servingSize_Gram" : 29.0
+    },
+
+    {
+        "label" : "Kashi, Chocolate Crunch Go Lean Cereal, 12.2 oz",
+        "ENERC_KCAL" : 210,
+        "FAT" : 7.0,
+        "FASAT" : 1.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 120,
+        "Carb"  : 32.0,
+        "Fiber" : 6.0,
+        "SUGAR" : 10.0,
+        "SUGAR.added" : 10.0,
+        "Protein" : 10.0,
+        "VITD" : 0.0,
+        "P" : 210.0,
+        "Iron" : 2.3,
+        "Calcium" : 70.0,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 52.0
+    },
+
+    {
+        "label" : "Nature's Path Organic, Dark Chocolate & Peanut Butter Granola, 11.5 oz",
+        "ENERC_KCAL" : 150,
+        "FAT" : 5.0,
+        "FASAT" : 0.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 75,
+        "Carb"  : 18.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 6.0,
+        "SUGAR.added" : 6.0,
+        "Protein" : 4.0,
+        "VITD" : 0.0,
+        "P" : 80.0,
+        "Iron" : 1.0,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 0.25,
+        "servingSize_Gram" : 30.0
+    },
+
+    {
+        "label" : "365 by Whole Foods Market, Organic Peanut Butter & Cocoa Balls Cereal, 10 oz",
+        "ENERC_KCAL" : 150,
+        "FAT" : 2.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 200,
+        "Carb"  : 31.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 10.0,
+        "SUGAR.added" : 10.0,
+        "Protein" : 2.0,
+        "VITD" : 0.0,
+        "P" : 110.0,
+        "Iron" : 0.6,
+        "Calcium" : 100.0,
+        "servingSize_cup" : 0.333,
+        "servingSize_Gram" : 38.0
     }
     
 ]
