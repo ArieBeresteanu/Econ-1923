@@ -1014,7 +1014,113 @@
         "Calcium" : 34.0,
         "servingSize_cup" : 1.0,
         "servingSize_Gram" : 32.0
-    }
+    },
+
+    {
+        "label" : "KIND Snacks, Almond Butter Whole Grains Clusters, 11 oz",
+        "ENERC_KCAL" : 110,
+        "FAT" : 2.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 60,
+        "Carb"  : 19.0,
+        "Fiber" : 1.0,
+        "SUGAR" : 5.0,
+        "SUGAR.added" : 5.0,
+        "Protein" : 4.0,
+        "VITD" : 0.0,
+        "P" : 69.0,
+        "Iron" : 1.0,
+        "Calcium" : 28.0,
+        "servingSize_cup" : 0.667,
+        "servingSize_Gram" : 65.0
+    },
     
+    {
+        "label" : "Nature's Path Organic, Sunrise Crunchy Vanilla Cereal, 10.6 oz",
+        "ENERC_KCAL" : 150,
+        "FAT" : 1.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 190,
+        "Carb"  : 34.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 9.0,
+        "SUGAR.added" : 7.0,
+        "Protein" : 2.0,
+        "VITD" : 0.0,
+        "P" : 85.0,
+        "Iron" : 1.0,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 40.0
+    },
+
+    {
+        "label" : "Cascadian Farm, Organic Oats & Honey Granola",
+        "ENERC_KCAL" : 270,
+        "FAT" : 7.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 55,
+        "Carb"  : 46.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 14.0,
+        "SUGAR.added" : 14.0,
+        "Protein" : 6.0,
+        "VITD" : 0.0,
+        "P" : 150.0,
+        "Iron" : 1.6,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 0.667,
+        "servingSize_Gram" : 62.0
+    },
+
+    {
+        "label" : "Nature's Path Organic, Pumpkin Seed Plus Flax Granola, 11.5 oz",
+        "ENERC_KCAL" : 260,
+        "FAT" : 10.0,
+        "FASAT" : 1.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 45,
+        "Carb"  : 37.0,
+        "Fiber" : 5.0,
+        "SUGAR" : 10.0,
+        "SUGAR.added" : 9.0,
+        "Protein" : 6.0,
+        "VITD" : 0.0,
+        "P" : 184.0,
+        "Iron" : 2.0,
+        "Calcium" : 28.0,
+        "servingSize_cup" : 0.75,
+        "servingSize_Gram" : 55.0
+    },
+
+    {
+        "label" : "365 by Whole Foods Market, Bite-sized Wheat Squares Cereal, 14 oz",
+        "ENERC_KCAL" : 230,
+        "FAT" : 0.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 5,
+        "Carb"  : 48.0,
+        "Fiber" : 8.0,
+        "SUGAR" : 1.0,
+        "SUGAR.added" : 0.0,
+        "Protein" : 7.0,
+        "VITD" : 0.0,
+        "P" : 240.0,
+        "Iron" : 3.2,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 1.25,
+        "servingSize_Gram" : 61.0
+    }
+
+
     ]
 }
