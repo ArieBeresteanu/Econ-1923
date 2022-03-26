@@ -1,10 +1,10 @@
-[
-    {
+{
+    "information" :    {
         "url" : "https://www.wholefoodsmarket.com/products/pantry-essentials/cereal",
         "period" : "March, 2022",
         "contributor" : "Arie Beresteanu"
-    },
-
+                    },
+    "cereal" : [
     {
         "label" : "Purely Elizabeth, Original Ancient Grain Granola, 12oz",
         "ENERC_KCAL" : 130,
@@ -1016,4 +1016,5 @@
         "servingSize_Gram" : 32.0
     }
     
-]
+    ]
+}
