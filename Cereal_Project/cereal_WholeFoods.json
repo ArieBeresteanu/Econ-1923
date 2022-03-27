@@ -1203,6 +1203,48 @@
         "Calcium" : 180.0,
         "servingSize_cup" : 1.00,
         "servingSize_Gram" : 60.0
+    },
+
+    {
+        "label" : "Nature's Path Organic, Flax Plus Red Berry Crunch Cereal, 10.6 oz",
+        "ENERC_KCAL" : 210,
+        "FAT" : 5.0,
+        "FASAT" : 0.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 170,
+        "Carb"  : 41.0,
+        "Fiber" : 6.0,
+        "SUGAR" : 11.0,
+        "SUGAR.added" : 10.0,
+        "Protein" : 6.0,
+        "VITD" : 0.0,
+        "P" : 260.0,
+        "Iron" : 2.4,
+        "Calcium" : 30.0,
+        "servingSize_cup" : 1.00,
+        "servingSize_Gram" : 58.0
+    },
+
+    {
+        "label" : "Kashi, Golean Crunch Honey Almond Flax Cereal, 14 oz",
+        "ENERC_KCAL" : 200,
+        "FAT" : 5.0,
+        "FASAT" : 0.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA"    : 140,
+        "Carb"  : 35.0,
+        "Fiber" : 8.0,
+        "SUGAR" : 12.0,
+        "SUGAR.added" : 10.0,
+        "Protein" : 9.0,
+        "VITD" : 0.0,
+        "P" : 340.0,
+        "Iron" : 1.4,
+        "Calcium" : 30.0,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 52.0
     }
 
 
