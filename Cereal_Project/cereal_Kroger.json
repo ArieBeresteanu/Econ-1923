@@ -90,6 +90,50 @@
         "VITA" : 450,
         "servingSize_cup" : 1.25,
         "servingSize_Gram" : 40.0
+    },
+
+    {
+        "label" : "Kroger, Honey Nut Toasted Oats Cereal",
+        "ENERC_KCAL" : 140,
+        "FAT" : 2.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 190,
+        "Carb" : 30.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 12.0,
+        "SUGAR.added" : null,
+        "Protein" : 3.0,
+        "VITD" : 2.0,
+        "P" : 160.0,
+        "Iron" : 4.5,
+        "Calcium" : 130.0,
+        "VITA" : null,
+        "servingSize_cup" : 1.00,
+        "servingSize_Gram" : 37.0
+    },
+
+    {
+        "label" : "Kroger, Rice Bitz Cereal",
+        "ENERC_KCAL" : 150,
+        "FAT" : 0.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 230,
+        "Carb" : 35.0,
+        "Fiber" : 1.0,
+        "SUGAR" : 3.0,
+        "SUGAR.added" : null,
+        "Protein" : 3.0,
+        "VITD" : 2.1,
+        "P" : 0.0,
+        "Iron" : 11.0,
+        "Calcium" : 140.0,
+        "VITA" : null,
+        "servingSize_cup" : 1.5,
+        "servingSize_Gram" : 41.0
     }
 ]
 }
