@@ -1,0 +1,95 @@
+{
+    "information" :    {
+        "url" : "https://www.kroger.com/pl/cereal-granola/03001",
+        "period" : "March, 2022",
+        "contributor" : "Arie Beresteanu"
+                    },
+    "cereal" : [
+    {
+        "label" : "Kroger, Crunchy Raisin Bran Cereal",
+        "ENERC_KCAL" : 200,
+        "FAT" : 1.0,
+        "FASAT" : 3.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 180,
+        "Carb" : 47.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 18.0,
+        "SUGAR.added" : null,
+        "Protein" : 3.0,
+        "VITD" : 2.0,
+        "P" : 170.0,
+        "Iron" : 4.5,
+        "Calcium" : 0.0,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 55
+    },
+    
+    {
+        "label" : "Kroger, Crispy Rice Cereal",
+        "ENERC_KCAL" : 169,
+        "FAT" : 0.5,
+        "FASAT" : 3.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 240,
+        "Carb" : 36.0,
+        "Fiber" : 0.0,
+        "SUGAR" : 4.0,
+        "SUGAR.added" : null,
+        "Protein" : 3.0,
+        "VITD" : 1.2,
+        "P" : 40.0,
+        "Iron" : 12.6,
+        "Calcium" : 0.0,
+        "VITA" : 180,
+        "servingSize_cup" : 1.5,
+        "servingSize_Gram" : 41
+    },
+
+    {
+        "label" : "Kroger, Frosted Shredded Wheat Bite Size Cereal",
+        "ENERC_KCAL" : 210,
+        "FAT" : 1.0,
+        "FASAT" : 3.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 5,
+        "Carb" : 50.0,
+        "Fiber" : 6.0,
+        "SUGAR" : 12.0,
+        "SUGAR.added" : null,
+        "Protein" : 5.0,
+        "VITD" : 0.0,
+        "P" : 220.0,
+        "Iron" : 9.0,
+        "Calcium" : 20.0,
+        "VITA" : null,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : null
+    },
+
+    {
+        "label" : "Kroger, Corn Flakes Cereal",
+        "ENERC_KCAL" : 140,
+        "FAT" : 0.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 210,
+        "Carb" : 30.0,
+        "Fiber" : 1.0,
+        "SUGAR" : 4.0,
+        "SUGAR.added" : null,
+        "Protein" : 2.0,
+        "VITD" : 1.3,
+        "P" : 50.0,
+        "Iron" : 11.0,
+        "Calcium" : 0.0,
+        "VITA" : 450,
+        "servingSize_cup" : 1.25,
+        "servingSize_Gram" : 40.0
+    }
+]
+}
