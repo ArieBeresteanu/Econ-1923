@@ -134,6 +134,72 @@
         "VITA" : null,
         "servingSize_cup" : 1.5,
         "servingSize_Gram" : 41.0
+    },
+
+    {
+        "label" : "Kroger, Bran Flakes Wheat Cereal",
+        "ENERC_KCAL" : 110,
+        "FAT" : 1.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 190,
+        "Carb" : 29.0,
+        "Fiber" : 7.0,
+        "SUGAR" : 7.0,
+        "SUGAR.added" : null,
+        "Protein" : 4.0,
+        "VITD" : 2.0,
+        "P" : 210.0,
+        "Iron" : 9.0,
+        "Calcium" : 10.0,
+        "VITA" : null,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 36.0
+    },
+
+    {
+        "label" : "Kroger, Oat Squares",
+        "ENERC_KCAL" : 210,
+        "FAT" : 2.5,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 190,
+        "Carb" : 45.0,
+        "Fiber" : 5.0,
+        "SUGAR" : 9.0,
+        "SUGAR.added" : null,
+        "Protein" : 6.0,
+        "VITD" : 2.0,
+        "P" : 210.0,
+        "Iron" : 16.0,
+        "Calcium" : 130.0,
+        "VITA" : 90.0,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 56.0
+    },
+
+    {
+        "label" : "Kroger, Toasted Oats Cereal",
+        "ENERC_KCAL" : 200,
+        "FAT" : 2.5,
+        "FASAT" : 0.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 5.0,
+        "NA" : 280,
+        "Carb" : 37.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 8.0,
+        "SUGAR.added" : null,
+        "Protein" : 8.0,
+        "VITD" : 3.6,
+        "P" : 440.0,
+        "Iron" : 11.0,
+        "Calcium" : 290.0,
+        "VITA" : null,
+        "servingSize_cup" : 1.5,
+        "servingSize_Gram" : 41.0
     }
 ]
 }
