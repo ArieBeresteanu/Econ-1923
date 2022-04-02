@@ -4,7 +4,7 @@
         "period" : "March, 2022",
         "contributor" : "Arie Beresteanu"
                     },
-    "unfound_UPCs" : ["0001111009970",],
+    "unfound_UPCs" : ["0001111009970"],
     "cereal" : [
     {
         "label" : "Kroger, Crunchy Raisin Bran Cereal",
@@ -24,7 +24,9 @@
         "Iron" : 4.5,
         "Calcium" : 0.0,
         "servingSize_cup" : 1.0,
-        "servingSize_Gram" : 55
+        "servingSize_Gram" : 55,
+        "UPC" : "0001111089823",
+        "Box_size" : 18.2
     },
     
     {
@@ -46,7 +48,9 @@
         "Calcium" : 0.0,
         "VITA" : 180,
         "servingSize_cup" : 1.5,
-        "servingSize_Gram" : 41
+        "servingSize_Gram" : 41,
+        "UPC" : "0001111003245",
+        "Box_size" : 12
     },
 
     {
@@ -68,7 +72,9 @@
         "Calcium" : 20.0,
         "VITA" : null,
         "servingSize_cup" : null,
-        "servingSize_Gram" : null
+        "servingSize_Gram" : null,
+        "UPC" : "0001111086705",
+        "Box_size" : 18
     },
 
     {
@@ -90,7 +96,9 @@
         "Calcium" : 0.0,
         "VITA" : 450,
         "servingSize_cup" : 1.25,
-        "servingSize_Gram" : 40.0
+        "servingSize_Gram" : 40.0,
+        "UPC" : "0001111087870",
+        "Box_size" : 18
     },
 
     {
@@ -112,7 +120,9 @@
         "Calcium" : 130.0,
         "VITA" : null,
         "servingSize_cup" : 1.00,
-        "servingSize_Gram" : 37.0
+        "servingSize_Gram" : 37.0,
+        "UPC" : "0001111085319",
+        "Box_size" : 12.25
     },
 
     {
@@ -134,7 +144,9 @@
         "Calcium" : 140.0,
         "VITA" : null,
         "servingSize_cup" : 1.5,
-        "servingSize_Gram" : 41.0
+        "servingSize_Gram" : 41.0,
+        "UPC" : "0001111087609",
+        "Box_size" : 12
     },
 
     {
@@ -156,7 +168,9 @@
         "Calcium" : 10.0,
         "VITA" : null,
         "servingSize_cup" : 1.0,
-        "servingSize_Gram" : 36.0
+        "servingSize_Gram" : 36.0,
+        "UPC" : "0001111003251",
+        "Box_size" : 18
     },
 
     {
@@ -178,7 +192,9 @@
         "Calcium" : 130.0,
         "VITA" : 90.0,
         "servingSize_cup" : 1.0,
-        "servingSize_Gram" : 56.0
+        "servingSize_Gram" : 56.0,
+        "UPC" : "0001111089832",
+        "Box_size" : 14.5
     },
 
     {
@@ -200,7 +216,9 @@
         "Calcium" : 290.0,
         "VITA" : null,
         "servingSize_cup" : 1.5,
-        "servingSize_Gram" : 41.0
+        "servingSize_Gram" : 41.0,
+        "UPC" : "0001111087827",
+        "Box_size" : 12
     },
 
     {
@@ -222,7 +240,9 @@
         "Calcium" : 0.0,
         "VITA" : null,
         "servingSize_cup" : 1.25,
-        "servingSize_Gram" : 40.0
+        "servingSize_Gram" : 40.0,
+        "UPC" : "0001111078506",
+        "Box_size" : 11.2
     },
 
     {
@@ -244,32 +264,12 @@
         "Calcium" : 0.0,
         "VITA" : null,
         "servingSize_cup" : 1.0,
-        "servingSize_Gram" : 43.0
+        "servingSize_Gram" : 43.0,
+        "UPC" : "0001111087600",
+        "Box_size" : 14.5
     },
 
-    {
-        "label" : "Kroger, Frosted Flakes Cereal",
-        "ENERC_KCAL" : 170,
-        "FAT" : 2.5,
-        "FASAT" : 0.0,
-        "FATRN" : 0.0,
-        "CHOLE" : 0.0,
-        "NA" : 170,
-        "Carb" : 36.0,
-        "Fiber" : 3.0,
-        "SUGAR" : 8.0,
-        "SUGAR.added" : null,
-        "Protein" : 3.0,
-        "VITD" : 2.2,
-        "P" : 0.0,
-        "Iron" : 12.1,
-        "Calcium" : 0.0,
-        "VITA" : null,
-        "servingSize_cup" : 1.0,
-        "servingSize_Gram" : 43.0
-    },
-
-    {
+        {
         "label" : "Kroger, Chocolately Cocoa Crisp Rice Cereal",
         "ENERC_KCAL" : 170,
         "FAT" : 1.5,
@@ -339,6 +339,198 @@
         "servingSize_Gram" : 37.0,
         "UPC" : "0001111003072",
         "Box_size" : 11.3
+    },
+
+    {
+        "label" : "Kroger, Whole Grain Oat & Honey Granola",
+        "ENERC_KCAL" : 270,
+        "FAT" : 8.0,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 10,
+        "Carb" : 46.0,
+        "Fiber" : 5.0,
+        "SUGAR" : 14.0,
+        "SUGAR.added" : null,
+        "Protein" : 7.0,
+        "VITD" : 0.0,
+        "P" : 220.0,
+        "Iron" : 2.0,
+        "Calcium" : 40.0,
+        "VITA" : null,
+        "servingSize_cup" : 0.667,
+        "servingSize_Gram" : 64.0,
+        "UPC" : "0001111082014",
+        "Box_size" : 14.0
+    },
+
+    {
+        "label" : "Kroger, Cinnamon Swirls Cereal",
+        "ENERC_KCAL" : 180,
+        "FAT" : 5.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 200,
+        "Carb" : 32.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 14.0,
+        "SUGAR.added" : null,
+        "Protein" : 2.0,
+        "VITD" : 0.0,
+        "P" : 50.0,
+        "Iron" : 6.0,
+        "Calcium" : 170.0,
+        "VITA" : null,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 42.0,
+        "UPC" : "0001111090590",
+        "Box_size" : 12.8
+    },
+
+    {
+        "label" : "Kroger, Whole Grain Muesli Cereal",
+        "ENERC_KCAL" : 220,
+        "FAT" : 3.0,
+        "FASAT" : 0.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 130,
+        "Carb" : 42.0,
+        "Fiber" : 5.0,
+        "SUGAR" : 15.0,
+        "SUGAR.added" : null,
+        "Protein" : 5.0,
+        "VITD" : 2.0,
+        "P" : 270.0,
+        "Iron" : 4.5,
+        "Calcium" : 0.0,
+        "VITA" : null,
+        "servingSize_cup" : 1.0,
+        "servingSize_Gram" : 57.0,
+        "UPC" : "0001111082012",
+        "Box_size" : 15.3
+    },
+
+    {
+        "label" : "Kroger, Whole Grain Oats Raisin & Honey Granola",
+        "ENERC_KCAL" : 310,
+        "FAT" : 7.0,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 5.0,
+        "NA" : 60,
+        "Carb" : 54.0,
+        "Fiber" : 5.0,
+        "SUGAR" : 22.0,
+        "SUGAR.added" : null,
+        "Protein" : 10.0,
+        "VITD" : 1.5,
+        "P" : 430.0,
+        "Iron" : 2.0,
+        "Calcium" : 180.0,
+        "VITA" : null,
+        "servingSize_cup" : 0.667,
+        "servingSize_Gram" : 65.0,
+        "UPC" : "0001111090759",
+        "Box_size" : 14.0
+    },
+
+    {
+        "label" : "Kroger, Mixed Berry Protein Granola Clusters",
+        "ENERC_KCAL" : 290,
+        "FAT" : 9.0,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 290,
+        "Carb" : 39.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 13.0,
+        "SUGAR.added" : null,
+        "Protein" : 13.0,
+        "VITD" : 0.0,
+        "P" : 150.0,
+        "Iron" : 4.9,
+        "Calcium" : 110.0,
+        "VITA" : null,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 67.0,
+        "UPC" : "0001111004981",
+        "Box_size" : 12.0
+    },
+
+    {
+        "label" : "Kroger, Peanut Butter Chocolate Protein Granola Clusters",
+        "ENERC_KCAL" : 320,
+        "FAT" : 11.0,
+        "FASAT" : 2.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 290,
+        "Carb" : 41.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 14.0,
+        "SUGAR.added" : null,
+        "Protein" : 13.0,
+        "VITD" : 0.0,
+        "P" : 210.0,
+        "Iron" : 5.0,
+        "Calcium" : 100.0,
+        "VITA" : null,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 67.0,
+        "UPC" : "0001111004980",
+        "Box_size" : 11.0
+    },
+
+    {
+        "label" : "Kroger, S'mores Granola Clusters",
+        "ENERC_KCAL" : 250,
+        "FAT" : 7.0,
+        "FASAT" : 1.0,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 110,
+        "Carb" : 42.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 14.0,
+        "SUGAR.added" : null,
+        "Protein" : 5.0,
+        "VITD" : 0.0,
+        "P" : 160.0,
+        "Iron" : 1.8,
+        "Calcium" : 20.0,
+        "VITA" : null,
+        "servingSize_cup" : null,
+        "servingSize_Gram" : 57.0,
+        "UPC" : "0001111008608",
+        "Box_size" : 10.0
+    },
+
+    {
+        "label" : "Kroger, Birthday Cake Granola Clusters",
+        "ENERC_KCAL" : 270,
+        "FAT" : 8.0,
+        "FASAT" : 1.5,
+        "FATRN" : 0.0,
+        "CHOLE" : 0.0,
+        "NA" : 105,
+        "Carb" : 46.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 16.0,
+        "SUGAR.added" : null,
+        "Protein" : 5.0,
+        "VITD" : 0.0,
+        "P" : 140.0,
+        "Iron" : 1.5,
+        "Calcium" : 20.0,
+        "VITA" : null,
+        "servingSize_cup" : 0.667,
+        "servingSize_Gram" : 62.0,
+        "UPC" : "0001111008609",
+        "Box_size" : 11.0
     }
 ]
 }
