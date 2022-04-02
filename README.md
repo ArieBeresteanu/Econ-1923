@@ -12,12 +12,13 @@ Watch this [video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=
 - [x] Environment variables
 - [X] Github basics
 - [X] DataFrames
+- [X] Kmeans clustering
 
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'> <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'>
 
 ## Projects:
-- [ ] CPI
-- [ ] Product differentiation
+- [X] CPI
+- [X] Product differentiation
 - [ ] Demand estimation
 
 <img src='https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg'> 
